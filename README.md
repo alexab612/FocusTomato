@@ -7,17 +7,17 @@ FocusTomato is a native macOS website and app blocker for focused work. Start a 
 ![FocusTomato Blue theme interface](https://alexab612.github.io/FocusTomatoDoc/img/screenshot.png)
 
 - [Website](https://alexab612.github.io/FocusTomatoDoc/)
-- [Download v1.0.2](https://github.com/alexab612/FocusTomato/releases/tag/v1.0.2)
+- [Download v1.0.3](https://github.com/alexab612/FocusTomato/releases/tag/v1.0.3)
 - [Privacy Policy](https://alexab612.github.io/FocusTomatoDoc/privacy/)
 - [Terms of Use](https://alexab612.github.io/FocusTomatoDoc/terms/)
 - [Feedback and Support](https://github.com/alexab612/FocusTomato/issues)
 
 ### Download
 
-Current stable version: **v1.0.2**
+Current stable version: **v1.0.3**
 
-- [Download FocusTomato-1.0.2.dmg](https://github.com/alexab612/FocusTomato/releases/download/v1.0.2/FocusTomato-1.0.2.dmg)
-- [View the v1.0.2 release notes](https://github.com/alexab612/FocusTomato/releases/tag/v1.0.2)
+- [Download FocusTomato-1.0.3.dmg](https://github.com/alexab612/FocusTomato/releases/download/v1.0.3/FocusTomato-1.0.3.dmg)
+- [View the v1.0.3 release notes](https://github.com/alexab612/FocusTomato/releases/tag/v1.0.3)
 - [View all releases](https://github.com/alexab612/FocusTomato/releases)
 
 ### Installing on macOS
